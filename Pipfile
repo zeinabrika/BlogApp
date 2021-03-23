@@ -8,6 +8,7 @@ whitenoise = "*"
 gunicorn = "*"
 django = "*"
 django-crispy-forms = "*"
+pillow = "*"
 
 [dev-packages]
 
