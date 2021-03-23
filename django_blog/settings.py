@@ -25,7 +25,9 @@ SECRET_KEY = '5)hdwn&ai45feaj!mou8x%+*k7+sl3w+zk!las$)=m0$jk@=9o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'https://ziniblog.herokuapp.com'
+]
 
 
 # Application definition
